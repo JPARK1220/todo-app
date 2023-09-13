@@ -2,6 +2,7 @@
 
 * Flask
 * Flask-SQLAlchemy
+* PostgreSQL in conjunction with ElephantSQL to manage tasks for users
 
 ## Install
 
